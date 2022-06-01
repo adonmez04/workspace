@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+table.shopping_card {
+  margin: 50px auto;
+  border-collapse: collapse;
+}
+
+tr {
+  border: 2px solid black;
+}
+
+th {
+  padding: 5px;
+}
+
+td {
+  padding: 5px;
+}
+
+div.button {
+  display: inline-block;
+  background-color: red;
+  margin-left: 700px;
+}
+
+p {
+  display: inline-block;
+}
